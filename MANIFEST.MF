@@ -1,0 +1,2 @@
+Main-Class: Passy
+Class-Path: passy.jar
